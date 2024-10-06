@@ -1,0 +1,2 @@
+2024-10-06 17:05:04.141 | DEBUG    | common.utils:decorator:17 - wait_for: current result 'False'
+2024-10-06 17:05:05.171 | DEBUG    | common.utils:decorator:17 - wait_for: current result 'True'
